@@ -17,7 +17,7 @@ import org.springframework.stereotype.Component;
  * -----------------------------------------------------------
  * 2024-08-01        Sora       최초 생성
  */
-@Component
+//@Component
 public class WebServerCustomizer implements WebServerFactoryCustomizer<ConfigurableWebServerFactory> {
 
     @Override
